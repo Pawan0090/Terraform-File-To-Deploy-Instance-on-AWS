@@ -1,5 +1,5 @@
 variable "OS" {
-  description = "Please Enter the OS of from (linux , ubuntu or 22.04 , debian)"
+  description = "Please Enter the OS of from (linux , ubuntu or ubuntu22 , debian)"
   #default = "ubuntu"
 }
 
